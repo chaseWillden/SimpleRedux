@@ -1,0 +1,18 @@
+{
+  "name": "SimpleRedux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chaseWillden/SimpleRedux",
+  "author": "Chase Willden <chase.willden@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.8.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "scripts": {
+    "test": "parcel test/index.html"
+  }
+}
